@@ -9,7 +9,7 @@ utils中其他函数自行理解
 wenshu_processor.py:如__main__里的流程，威科先行爬下来的数据如下所示，
 ![image](https://github.com/SkyErnest/legal_utils/blob/master/images/original_file.PNG)
 
-read_all()的输入结果如下图所示
+read_all()的输出结果如下图所示
 ![image](https://github.com/SkyErnest/legal_utils/blob/master/images/Capture0.PNG)
 ![image](https://github.com/SkyErnest/legal_utils/blob/master/images/Capture.PNG)
 ![image](https://github.com/SkyErnest/legal_utils/blob/master/images/Capture2.PNG)
